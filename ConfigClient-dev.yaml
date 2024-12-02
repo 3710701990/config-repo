@@ -1,4 +1,4 @@
 baidu:
   openai:
-    apiKey: 6L+Z5pivY29uZmln6L+c56iL5LuT5bqTYXBwbGljYXRpb24ueWFtbOmFjee9rmtleQ==
-    apiSecret: 6L+Z5pivY29uZmln6L+c56iL5LuT5bqTYXBwbGljYXRpb24ueWFtbOmFjee9rnNlY3JldA==
+    apiKey: 这是开发环境ApiKey
+    apiSecret: 这是开发环境ApiSecret
